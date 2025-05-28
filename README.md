@@ -1,2 +1,4 @@
-# Rock-Paper-Scissors
-First project with JavaScript
+
+# ✊ Rock-Paper-Scissors
+
+A simple first project Rock-Paper-Scissors game built with JavaScript
